@@ -33,5 +33,5 @@ A secure and scalable **Node.js + Express backend** with **JWT Authentication** 
 
 ---
 
-## 📂 Project Structure
+
 
